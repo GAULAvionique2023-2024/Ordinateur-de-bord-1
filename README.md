@@ -52,9 +52,10 @@ This is a list of documentation for the Ic
 * [max1898eub42+T](https://www.analog.com/media/en/technical-documentation/data-sheets/max1898.pdf) Linear Charger for Single-Cell Li+ Battery
 * [LTC2954ITS8-1](https://www.analog.com/media/en/technical-documentation/data-sheets/2954fb.pdf) Pushbutton On/Off Controller with µP Interrup
 * [CD74HC4051-EP](https://www.ti.com/lit/ds/symlink/cd74hc4051-ep.pdf?ts=1695467019480&ref_url=https%253A%252F%252Fwww.google.com%252F) Analog Multiplexer and Demultiplexer
-* [SN74LVC2G02](https://www.ti.com/lit/ds/symlink/sn74lvc2g02.pdf?ts=1695487659279) Dual 2-Input Positive-NOR Gate
-* [74HC86](https://www.ti.com/lit/ds/symlink/sn74hc86.pdf?ts=1695463772948&ref_url=https%253A%252F%252Fwww.google.de%252F) Quadruple 2-Input XOR Gates
-* [SN74LVC2G08](https://www.ti.com/lit/ds/symlink/sn74lvc2g08.pdf?ts=1695451693627) Dual 2-Input Positive-AND Gate
+* [74HC2G86DP_125](https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G86.pdf) Dual 2-input EXCLUSIVE-OR gate
+* [74HC2G86DP_125](https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G08.pdf) Dual 2-input AND gate
+* [74HC2G86DP_125](https://assets.nexperia.com/documents/data-sheet/74LVC2G02.pdf) Dual 2-input NOR gate
+
 
 
 
