@@ -6,7 +6,10 @@ This board is an updated version of the first flight controler with little extra
 
 ## Update log
 
-### 01/10/23
+### 23/10/09
+Now the pcb is finish. I add the BOM file and the pcb is now on production.
+
+### 23/10/01
 So I rework the schematic to use less components and had the crystal circut, cause I dont know how but I was forgeting it. I also begin to layout the components on the pcb (see image: [main(01_10_23)](https://github.com/ul-gaul/Nebula-2022-2023/blob/main/WIP/Image/main(01_10_23).png)). I try my best to fit in the 85mmx85mm.
 
 ### 23/09/23
