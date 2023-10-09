@@ -7,10 +7,10 @@ This board is an updated version of the first flight controler with little extra
 ## Update log
 
 ### 23/10/09
-Now the pcb is finish. I add the BOM file and the pcb is now on production.
+Now the pcb is finish. I add the BOM file and the pcb is now on production.(see image: [ODB1_PCB](https://github.com/GAULAvionique2023-2024/Ordinateur-de-bord-1/blob/main/Images/ODB1_PCB.png))
 
 ### 23/10/01
-So I rework the schematic to use less components and had the crystal circut, cause I dont know how but I was forgeting it. I also begin to layout the components on the pcb (see image: [main(01_10_23)](https://github.com/ul-gaul/Nebula-2022-2023/blob/main/WIP/Image/main(01_10_23).png)). I try my best to fit in the 85mmx85mm.
+So I rework the schematic to use less components and had the crystal circut, cause I dont know how but I was forgeting it. I also begin to layout the components on the pcb (see image: [OBD1_1_10_23](https://github.com/GAULAvionique2023-2024/Ordinateur-de-bord-1/blob/main/Images/OBD1_1_10_23.png)). I try my best to fit in the 85mmx85mm.
 
 ### 23/09/23
 I add the possibility to use the RFD900 with the USB.
@@ -31,7 +31,6 @@ The schematic is almost done. Need to retink of some part of the logic part to p
 
 This week I will try to list all the feature of this board, finalyze the schematic, add the data sheets of some ICs.
 
-https://github.com/ul-gaul/Nebula-2022-2023/blob/main/WIP/Image/main(01_10_23).png
 ## Features
 * Standalone board
 * Powered by usb or lipo 1S
