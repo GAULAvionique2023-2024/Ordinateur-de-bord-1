@@ -6,6 +6,9 @@ This board is an updated version of the first flight controler with little extra
 
 ## Update log
 
+### 23/11/22
+Long time no see. Well I receive the board and do some test. All work except the GYRO and the inition of the fuse need to be confirm. I think I broke the gyro when I solder it so am waiting for a new one and in the same time im waiting for some e-fuse. I also made some minor change in the schematic and the board desing. Like switching the green status led by an RGB led, so it will be easyer to understand some status.  
+
 ### 23/10/09
 Now the pcb is finish. I add the BOM file and the pcb is now on production.(see image: [ODB1_PCB](https://github.com/GAULAvionique2023-2024/Ordinateur-de-bord-1/blob/main/Images/ODB1_PCB.png))
 
