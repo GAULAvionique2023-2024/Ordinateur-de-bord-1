@@ -6,6 +6,9 @@ This board is an updated version of the first flight controler with little extra
 
 ## Update log
 
+### 23/12/16
+All the test is now done. I corrected some mistake and change the status LED for an RGB one so it will be easier to understand its meaning. The new board its on the way.
+
 ### 23/11/22
 Long time no see. Well I receive the board and do some test. All work except the GYRO and the inition of the fuse need to be confirm. I think I broke the gyro when I solder it so am waiting for a new one and in the same time im waiting for some e-fuse. I also made some minor change in the schematic and the board desing. Like switching the green status led by an RGB led, so it will be easyer to understand some status.  
 
